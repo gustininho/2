@@ -1,0 +1,7 @@
+ Buto numeris: 1  Gyventoju skaicius: 15
+ Buto numeris: 2  Gyventoju skaicius: 2
+ Buto numeris: 3  Gyventoju skaicius: 13
+ Buto numeris: 4  Gyventoju skaicius: 7
+ Buto numeris: 5  Gyventoju skaicius: 6
+-----------------
+Gyventoju kiekis 43
